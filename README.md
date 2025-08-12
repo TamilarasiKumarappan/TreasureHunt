@@ -3,7 +3,7 @@
 📌 Description
 Treasure Hunt is a simple text-based adventure game written in Java.
 Your goal is to collect 100 coins before your health runs out. Choose your actions wisely – every move affects your health and coin count!
-
+---
 🎮 How to Play
 Fight ⚔️ – Lose 20 health, gain 10 coins.
 
@@ -17,7 +17,7 @@ Quit 🚪 – Exit the game.
 
 Win Condition: Reach 100 coins.
 Lose Condition: Health reaches 0 or below.
-
+---
 ✨ Features
 Simple interactive text-based menu.
 
@@ -27,6 +27,5 @@ Win/Lose conditions.
 
 Beginner-friendly Java logic.
 
-📜 License
-This project is open-source and free to use.
+
 
