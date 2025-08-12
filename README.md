@@ -1,37 +1,32 @@
-Treasure Hunt Game
+# TreasureHuntGame
 
+📌 Description
 Treasure Hunt is a simple text-based adventure game written in Java.
-The player starts with a certain amount of health and coins, then chooses actions to survive and collect treasures.
-The goal is to reach 100 coins before your health drops to zero.
+Your goal is to collect 100 coins before your health runs out. Choose your actions wisely – every move affects your health and coin count!
 
-Players can choose different actions:
+🎮 How to Play
+Fight ⚔️ – Lose 20 health, gain 10 coins.
 
-   *Fight → Lose health but gain coins.
+Search 🔍 – Lose 10 health, gain 20 coins.
 
-   *Search → Lose some health but find more coins.
+Rest 🛌 – Gain 15 health, lose 5 coins.
 
-   *Rest (Reset) → Regain some health but lose a few coins.
+Check Status 📊 – View your current health and coins.
 
-   *Check Status → View current health and coins.
+Quit 🚪 – Exit the game.
 
-   *Quit → Exit the game anytime.
+Win Condition: Reach 100 coins.
+Lose Condition: Health reaches 0 or below.
 
-The game ends when:
+✨ Features
+Simple interactive text-based menu.
 
-   *You reach 100 coins → You Win! 🎉
+Health and coin tracking.
 
-   *Your health drops to 0 or less → You Lose! 💀
+Win/Lose conditions.
 
-   *You choose to quit.
+Beginner-friendly Java logic.
 
-Features
+📜 License
+This project is open-source and free to use.
 
-  *Interactive text-based menu system.
-
-  *Dynamic health and coin updates.
-
-  *Win and lose conditions.
-
-  *Simple game loop logic.
-
-# TreasureHunt
